@@ -1,0 +1,19 @@
+The data is huge of 1.4 gb. Takes around 5 minutes to download the data, depending on the internet connectivity. There are 2 links for downloading the data.
+
+Link 1:
+https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.csv?accessType=DOWNLOAD
+
+Steps:
+- Just Copy and Paste the link mentioned above and it will automatically start download
+- Store the downloaded csv file at the folder location final/data/raw_data and then run the .ipynb files
+
+
+
+Link 2(If Link 1 doesn't work):
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+
+Steps:
+- Copy and paste the link mentioned above
+- Click Export tab
+- Click Download and then Download As CSV 
+- Store the downloaded csv file at the folder location final/data/raw_data and then run the .ipynb files
