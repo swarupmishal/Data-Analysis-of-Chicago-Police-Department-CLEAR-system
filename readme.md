@@ -1,12 +1,12 @@
 # DATA ANALYSIS OF CRIMINAL ACTIVITY IN CHICAGO
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/extra/6A231614-652B-4334-852C-54261F4B13BD.png)
 
-# What exactly the Data is?
+## What exactly the Data is?
 This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. In order to protect the privacy of crime victims, addresses are shown at the block level only and specific locations are not identified. The Data is already Processed. The data consists of 22 columns and 6.31 Million rows. Each row is a Reported Crime. The entire description for the dataset can be found out at this link,
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 
-# How can one obtain the Data and run the .ipynb files?
+## How can one obtain the Data and run the .ipynb files?
 The data is huge of 1.4 gb. Takes around 5 minutes to download the data, depending on the internet connectivity. There are 2 links for downloading the data.
 
 Link 1:
@@ -27,10 +27,10 @@ Steps:
 - Click Download and click then Download As CSV 
 - Store the downloaded csv file at the folder location final/data/raw_data and then run the .ipynb files
 
-# How is the Data stored?
+## How is the Data stored?
 The Data is stored as CSV file. The downloaded file should be stored inside the folder raw_data which we can find under data folder. The  downloaded file is read using Python
 
-# Individual Analysis and its Inference
+## Individual Analysis and its Inference
 ## Analysis 1
 ### Analyzing Pattern of Crime over the years since 2001
 > Input: 
